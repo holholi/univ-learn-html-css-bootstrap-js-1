@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(238, 238, 238);
+    padding: 20px;
+}
+
+.bgc-Tomato {
+    background-color: tomato;
+}
+
+
+table {
+    margin: auto;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+
+.box {
+    background-color: tomato;
+    border: solid 4px black;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: justify;
+    padding: 20px;
+    padding-top: 40px;
+    margin: 20px;
+    opacity: 0.8;
+    overflow: auto;
+    cursor: crosshair;
+}
+
+.box span {
+    font-size: 12px;
+}
+
+.box span strong {
+    font-size: 18px;
+    color: white;
+}
